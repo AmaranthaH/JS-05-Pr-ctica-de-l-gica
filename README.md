@@ -1,1 +1,1 @@
-# JS-05-Pr-ctica-de-l-gica
+# JS-05-Practic De Logica
